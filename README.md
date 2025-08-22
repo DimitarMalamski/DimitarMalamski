@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi, I am Dimitar 👋
 
-<!--
-**DimitarMalamski/DimitarMalamski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ICT Bachelor Student @ Fontys University of Applied Sciences ( Eindhoven, The Netherlands )  
+- Aspiring Software Engineer | Specialized in Razor · JavaScript · ASP.NET Core · MySQL  
+- Passionate about full-stack development, problem-solving, and building scalable software 
+- International student from Bulgaria
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: C#, JavaScript/TypeScript, SQL  
+- **Frontend**: Razor, React, Tailwind CSS  
+- **Backend**: ASP.NET Core, Node.js (basics)  
+- **Databases**: MySQL ( Learning PostgreSQL soon )
+- **Tools & DevOps**: Git, GitHub Actions, Cloud (Azure/AWS basics)
+
+---
+
+## 📌 Featured Projects
+*(more coming soon this semester 🚀)*
+
+- [**Blooms-Bakes-Boutique**](#) — ASP.NET Core project (SoftUni graduation project)
+- [**Algorithms & LeetCode Solutions**](#) — Structured problem-solving in C#  
+- [**Portfolio Website**](#) — *(in progress)* Personal site with projects, blog & contact
+
+---
+
+## 📊 Current Focus
+- Preparing for Tier 1–2 SWE internships
+- Finishing my education at Fontys ICT
+- Solving LeetCode problems  
+- Developing a variety of projects that use different languages and techniques
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/dimitar-malamski-a00253238/)  
+- [Email](mailto:mitemalamata@gmail.com)  
+- [Portfolio (coming soon)](#)
+
+---
+⭐️ *Always open to collaborations, learning, and new challenges!*
