@@ -20,7 +20,8 @@
 *(more coming soon this semester 🚀)*
 
 - [**Blooms-Bakes-Boutique**](#) — ASP.NET Core project (SoftUni graduation project)
-- [**Algorithms & LeetCode Solutions**](#) — Structured problem-solving in C#  
+- [**Eventflow**](#) — A smart calendar web application
+- [**Algorithms & LeetCode Solutions**](#) — Structured problem-solving  
 - [**Portfolio Website**](#) — *(in progress)* Personal site with projects, blog & contact
 
 ---
