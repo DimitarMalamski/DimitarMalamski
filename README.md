@@ -21,6 +21,7 @@
 
 - [**Blooms-Bakes-Boutique**](#) — ASP.NET Core project (SoftUni graduation project)
 - [**Eventflow**](#) — A smart calendar web application
+- [**CareerPath**](#) - A AI-based internship/job search platform 
 - [**Algorithms & LeetCode Solutions**](#) — Structured problem-solving  
 - [**Portfolio Website**](#) — *(in progress)* Personal site with projects, blog & contact
 
