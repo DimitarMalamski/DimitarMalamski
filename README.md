@@ -1,9 +1,34 @@
-# 💫 About Me:
-- I am currently in Semester 4 ( AI & Data ) of my ICT bachelor at Fontys University of Applied Sciences in the Netherlands.
-- I’m working on full-stack applications while expanding my focus toward artificial intelligence, data-driven systems, and backend architecture.
-- I’m interested in collaborating on well-structured software projects that combine engineering fundamentals with practical AI applications.
-- At the moment, I’m deepening my knowledge in machine learning fundamentals, data processing, backend scalability, and system design.
-- I’m originally from Bulgaria and pursuing an international career in software engineering.
+<h1 align="center">hello there 👋, I'm Dimitar</h1>
+
+<p align="center">
+ICT Student @ Fontys University of Applied Sciences<br>
+Full-Stack Developer expanding into AI & Data Engineering
+</p>
+
+<br>
+
+<p align="center">
+I build structured and scalable software systems, combining
+strong engineering fundamentals with practical AI applications.
+</p>
+
+<p align="center">
+Currently focused on machine learning foundations,
+backend architecture, and system design.
+</p>
+
+<br>
+
+<p align="center">
+Originally from Bulgaria <br>
+🌍 Pursuing an international career in software engineering
+</p>
+
+<br>
+
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" width="600" />
+</p>
 
 
 ## 🌐 Socials:
